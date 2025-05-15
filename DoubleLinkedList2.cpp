@@ -28,6 +28,9 @@ public:
         cout << "\nEnter the roll number of the student: ";
         cin >> nim;
         
+        // Step 1: Allocate memory for new mode
+        Node *newNode = new Node();
+
         
 
 };
