@@ -85,7 +85,10 @@ public:
                 return;
             }
 
-            
+            cout << "nMasukkan NIM yang akan didelete";
+            int rollNo;
+            cin >> rollNo;
 
+            
 };
 
