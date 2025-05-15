@@ -31,7 +31,9 @@ public:
         // Step 1: Allocate memory for new mode
         Node *newNode = new Node();
 
-        
+        // Step 2: Assign value to the data fields
+        newNode->noMhs = nim;
 
+        
 };
 
